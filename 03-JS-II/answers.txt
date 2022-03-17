@@ -1,0 +1,2 @@
+For: es una estrutura de control que nos permite repetir de manera finita una linea de comandos mientras se cumplan las condiciones de la definición.
+&&, ||, ! : son operadores booleanos que nos permiten evaluar si el resultado de un grupo de condiciones son verdad o falso en base a la tabla de verdad de cada operador.
