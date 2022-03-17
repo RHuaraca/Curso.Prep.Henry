@@ -1,0 +1,7 @@
+Variables: son espacios de memoria en la computadora que se reservan para almacenar algun tipo de dato.
+Strings: son un tipo de dato que implica una cadena de caracteres.
+Funciones: son un conjunto de lineas de codigo que ejecutan una tarea especifica haciendo uso de datos variables y mas.
+Argumentos de funciones: algunas funciones hacen uso de argumentos, estos son basiamente datos de entrada de los distintos tipos que existen.
+return: es una declaración que permite la devolución de lo solicitado y detiene la ejecucion de la función que la contiene.
+if: es una declaración que nos permite evaluar datos y en funcion al resultado (condición) se ejecuta una linea de comandos u otra.
+Valores booleanos: existen unicamente dos que se expresan de maneras diferentes dependiendo del contexto para este caso será true = verdad o false = falso.
