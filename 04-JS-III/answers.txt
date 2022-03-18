@@ -1,0 +1,3 @@
+Arrays: es un arreglo de datos, JS acepta todos los tipos de datos dentro de un arreglo, 
+su manejo de los elemento internos es a travez de los indices (indicadores de ubicación de elementos)
+se puede comparar a una matriz.
