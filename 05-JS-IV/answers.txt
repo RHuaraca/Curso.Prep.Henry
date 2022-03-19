@@ -1,0 +1,8 @@
+Objetos: los objetos son estructuras con propiedades y metodos, en JS el uso de los objetos es muy extensivo.
+Propiedades: las propiedades de los objetos permiten almacenar informacion del objeto en distintos tipos de datos.
+Métodos : los metodos son funciones (acciones) que se puede ejectutar con los objetos.
+bucle for in : los objetos al tener la posibilidad de tratar los indices con caracteres o cadena de caracteres 
+el bucle for permite recorrer cada una de las propiedades y metodos de un objeto con claras variantes.
+Notación de puntos vs notación de corchetes : es principalmente formas de invocar metodos o propiedades de un 
+objeto se debe tener en cuenta que para algunas acciones especificas es preferible el uso de una notacion en+
+lugar de la otra, de lo que se deduce que ambas notaciones tienen ventajas y desventajas.
