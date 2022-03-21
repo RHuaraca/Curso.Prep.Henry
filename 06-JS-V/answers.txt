@@ -1,0 +1,2 @@
+prototype: son metodos de los objetos que se heredan y se pueden agregar más, los cuales aplican a partir del objeto o constructor creado.
+constructors: es un metodo de una clase para crear objetos definiendo sus propiedades.
